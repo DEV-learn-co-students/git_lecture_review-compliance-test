@@ -4,7 +4,7 @@ language: bash
 format: video
 ---
 
-# How to Open a Terminal
+# Git Lecture Review
 [MP4](http://flatiron-videos.s3.amazonaws.com/web-0415/Git%20Review.mp4)
 
 <video controls width="100%">
