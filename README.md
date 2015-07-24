@@ -1,9 +1,3 @@
----
-tags: git, command line, video
-language: bash
-format: video
----
-
 # Git Lecture Review
 [MP4](http://flatiron-videos.s3.amazonaws.com/web-0415/Git%20Review.mp4)
 
